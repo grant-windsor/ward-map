@@ -7,9 +7,9 @@ They should also be able to add and remove houses and apartments.
 
 It would be really great to have a way to filter out and get only the relief society or elders quorum.
 
-It would be nice to have a way to differentiate 'inactive properties' or places with no ward members, but that could potentially house ward members in the future.
+It would be nice to have a way to designate 'non-ysa households' or places with no ward members, but that could potentially house ward members in the future.
 
-It would be really great to have a way to highlight properties, to show where there are struggling or inactive.
+It would be really great to have a way to highlight households, to show where there are struggling or inactive.
 
 It must be well documented so that after I move out of the ward it can continue to be worked on by others.
 
