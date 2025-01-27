@@ -1,0 +1,2 @@
+Jan 12: set up project
+Jan 26: imported first test data

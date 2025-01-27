@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "Place Name": "Bro House",
+            "Address": "674 E 300 N, Provo, UT 84606",
+            "Residents": [{
+                "Name": "Grant Windsor",
+                "Phone": "801-123-4567",
+                "Hilighted": false}]
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -111.64715171377702,
+                40.23732001217314
+              ],
+              [
+                -111.64715171377702,
+                40.237144117051514
+              ],
+              [
+                -111.64700588005564,
+                40.237144117051514
+              ],
+              [
+                -111.64700588005564,
+                40.23732001217314
+              ],
+              [
+                -111.64715171377702,
+                40.23732001217314
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      }
+    ]
+  }
